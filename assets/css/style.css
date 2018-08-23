@@ -56,9 +56,15 @@ table {
         font-size: 30px;
         }
 
+.headerlinksbox
+        {
+        float: left;
+
+        }
+
+
 .headerlinks
         {
-        float: right;
         padding: 30px;
         color: gray;
         }
