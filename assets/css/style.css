@@ -84,7 +84,7 @@ header
 
 .sectionbackground
         {
-        background: red;
+        background-image: url('../images/dark-grey-terrazzo/dark-grey-terrazzo.png');
         clear: both;
         height: 40em;
         border-top: 2px solid gray;
@@ -101,6 +101,12 @@ header
         border: 2px solid #dddddd
         }
 
+.picture
+        {
+        margin: 25px;
+        max-width: 200px;
+        max-height: 200px;
+        }
 
 .h1in
         {
